@@ -24,3 +24,4 @@ document.addEventListener("DOMContentLoaded", () => {
         contenedorProductos.appendChild(productoDiv);
     });
 });
+
