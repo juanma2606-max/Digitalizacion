@@ -12,6 +12,10 @@ header {
     text-align: center;
 }
 
+.portada {
+    width:250px;
+}
+
 nav ul {
     list-style: none;
     padding: 0;
