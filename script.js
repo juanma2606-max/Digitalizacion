@@ -1,8 +1,8 @@
 document.addEventListener("DOMContentLoaded", () => {
     const productos = [
-        { nombre: "Producto 1", precio: "$10", imagen: "Imagenes/producto1.webp" },
-        { nombre: "Producto 2", precio: "$20", imagen: "Imagenes/producto2.webp" },
-        { nombre: "Producto 3", precio: "$30", imagen: "Imagenes/producto3.png" }
+        { nombre: "Producto 1", precio: "$10", imagen: "producto1.webp" },
+        { nombre: "Producto 2", precio: "$20", imagen: "producto2.webp" },
+        { nombre: "Producto 3", precio: "$30", imagen: "producto3.png" }
     ];
 
     const contenedorProductos = document.getElementById("productos-container");
