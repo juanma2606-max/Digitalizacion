@@ -12,7 +12,7 @@ header {
     text-align: center;
 }
 
-#portada img{
+.portada img{
      width: 100%;
     height: auto;
     max-height: 200px;
